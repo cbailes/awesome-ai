@@ -9,4 +9,4 @@ if len(pw) > 5:
     message = input()
     os.system('git add -A')
     os.system('git commit -m ' + '"' + message +'"')
-    os.system('git push https://cbailes:' + str(pw) + '@github.com/awesome-ai.git')
+    os.system('git push https://cbailes:' + str(pw) + '@github.com/cbailes/awesome-ai.git')
