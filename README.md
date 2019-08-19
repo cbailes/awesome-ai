@@ -9,4 +9,4 @@ Repository of awesome AI resources
 
 ## Law and legal
 
-case briefs
+### Case briefs
