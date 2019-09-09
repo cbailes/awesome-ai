@@ -1,5 +1,5 @@
 # awesome-ai
-Awesome AI is a series of comprehensive meta-resources for artificial intelligence, neural networks, deep learning, machine learning, and related software, technology, and datasets in a given application.
+Awesome AI is a series of free, comprehensive meta-resources for artificial intelligence, neural networks, deep learning, machine learning, and related software, technology, and datasets in a given application.
 
 © 2019 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
 
