@@ -1,5 +1,9 @@
 # awesome-ai
-Repository of awesome AI resources
+Awesome AI is a series of comprehensive meta-resources for artificial intelligence, neural networks, machine learning, and related software and datasets for a given application.
+
+© 2019 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
+
+## Topics
 
 * [cbailes/awesome-ai-cancer](https://github.com/cbailes/awesome-ai-cancer) - AI for cancer and all things oncology, including diagnostics, treatments, prognostics, surgical guidance, and drug discovery
 
