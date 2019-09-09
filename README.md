@@ -11,7 +11,7 @@ Awesome AI is a series of comprehensive meta-resources for artificial intelligen
 
 * [cbailes/awesome-deep-trading](https://github.com/cbailes/awesome-deep-trading) - AI for stock trading, market prediction, sentiment analysis, and crypto markets
 
-<!-- 
+<!-- future topics 
 ## Advertising psychology
 * [Consumer Neuroscience-Based Metrics Predict Recall, Liking and Viewing Rates in Online Advertising](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5671759/) - Jaime Guixeres, Enrique Bigné, Jose M. Ausín Azofra, Mariano Alcañiz Raya, Adrián Colomer Granero, Félix Fuentes Hurtado, Valery Naranjo Ornedo (2017)
 * [Multimodal Content Analysis for Effective Advertisements on YouTube](https://arxiv.org/abs/1709.03946) - Nikhita Vedula, Wei Sun, Hyunhwan Lee, Harsh Gupta, Mitsunori Ogihara, Joseph Johnson, Gang Ren, Srinivasan Parthasarathy (2017)
