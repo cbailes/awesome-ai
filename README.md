@@ -5,9 +5,9 @@ Awesome AI is a series of comprehensive meta-resources for artificial intelligen
 
 ## Topics
 
-* [cbailes/awesome-ai-cancer](https://github.com/cbailes/awesome-ai-cancer) - AI for cancer and all things oncology, including diagnostics, treatments, prognostics, surgical guidance, and drug discovery
+* [cbailes/awesome-ai-cancer](https://github.com/cbailes/awesome-ai-cancer) - AI for cancer and all things oncology, including diagnostics, treatments, prognostics, surgical guidance, drug discovery, and datasests
 
-* [cbailes/awesome-ai-cardiology](https://github.com/cbailes/awesome-ai-cardiology) - AI for cardiovascular disease, cardiac surgery, risk analysis, and more
+* [cbailes/awesome-ai-cardiology](https://github.com/cbailes/awesome-ai-cardiology) - AI for cardiovascular disease, cardiac surgery, risk analysis, datasets, and more
 
 * [cbailes/awesome-deep-trading](https://github.com/cbailes/awesome-deep-trading) - AI for stock trading, market prediction, sentiment analysis, and crypto markets
 
