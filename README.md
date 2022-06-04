@@ -1,7 +1,7 @@
 # awesome-ai
 Awesome AI is a series of free, comprehensive meta-resources for artificial intelligence, neural networks, deep learning, machine learning, and related software, technology, and datasets in a given application.
 
-© 2020 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
+© 2022 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
 
 ## Topics
 
